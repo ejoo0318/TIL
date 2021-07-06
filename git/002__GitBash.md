@@ -57,3 +57,7 @@
 > - git clone [자신의 GitHub 원격저장소 주소 -https] 
 > - 원격저장소에 있는 정보(Repository)를 내컴퓨터로 가져옴
 
+19. 화면 클리어
+
+> - ctrl + l
+> - clear 작성
